@@ -1,0 +1,49 @@
+/*=============UNIVERSALS=============*/
+.center {
+  text-align: center;
+}
+
+/*==============HEADER==============*/
+.headerback {
+  background-color: #abbeca;
+  height: 210px;
+}
+
+#logo {
+  background-color: #7f898c;
+  height: 200px;
+}
+
+#nav {
+  background-color: #7f898c;
+  height: 200px;
+}
+
+/*===========SIDEBAR=================*/
+.side {
+  background-color: #7f898c;
+  height: 500px;
+}
+
+.title {
+  background-color: #000;
+  color: #fff;
+}
+
+/*===========MAIN==============*/
+.main {
+  background-color: #000;
+  height: 500px;
+
+}
+
+/*==========FOOTER===============*/
+.socialmedia {
+  background-color: #000;
+  height: 100px;
+}
+
+.aboutfooter {
+  background-color: #ebebeb;
+  height: 100px;
+}
